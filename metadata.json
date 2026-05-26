@@ -1,0 +1,6 @@
+{
+  "name": "CyberGuard AI",
+  "description": "CyberGuard AI is a complete production-ready mobile security application featuring Phishing, Malware, Breach, and Wifi scanners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
